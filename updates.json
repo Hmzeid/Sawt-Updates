@@ -1,0 +1,4 @@
+{
+  "payload": "{\"version\":\"1.0.0\",\"build\":1,\"downloadURL\":\"https://github.com/Hmzeid/Sawt-Updates/releases/download/v1.0.0/Sawt-1.0.0.dmg\",\"releaseNotes\":\"Sawt 1.0 — bilingual Arabic/English/Egyptian dictation, natural Pocket + Kareem TTS, NVIDIA NIM/DeepSeek/Gemini/OpenAI chat, voice notes, AI editing, split Dictate pages and Veebase branding.\",\"publishedAt\":\"2026-10-26T18:03:27Z\",\"sha256\":\"d5ac15201df318d7a475a308725ea26306db2611c5a409f58291e5c1f1b35990\",\"size\":657250744}",
+  "signature": "O4wjS7FVB+QmpHH21xGgpQNGKFGhMOvKUosqLB9mlJBaG7OmToC7unWMYPSjHQZzj3Gh4shCgd3WSOLODC0eAA=="
+}
