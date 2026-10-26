@@ -1,4 +1,4 @@
 {
-  "payload": "{\"version\":\"1.0.1\",\"build\":2,\"downloadURL\":\"https://github.com/Hmzeid/Sawt-Updates/releases/download/v1.0.1/Sawt-1.0.1.dmg\",\"releaseNotes\":\"Sawt 1.0.1 adds in-app updates, split Dictate pages, Veebase branding and the latest TTS/AI fixes.\",\"publishedAt\":\"2026-10-26T18:07:46Z\",\"sha256\":\"97256c334947761b0c8de5d0ba9caf5626f2d86b1d5c885bf683a80da0e0cebe\",\"size\":657363975}",
-  "signature": "H6xpokgVGGsPSCoXIyNfk3LEK7lblymoBolGUAASjC4quUl2TV3DrLyukeJBZAzDD8G9cAULJ1SELZAZH4JnAw=="
+  "payload": "{\"version\":\"1.0.1\",\"build\":2,\"downloadURL\":\"https://github.com/Hmzeid/Sawt-Updates/releases/download/v1.0.1/Sawt-1.0.1.dmg\",\"releaseNotes\":\"Sawt 1.0.1 adds in-app updates, split Dictate pages, Veebase branding and the latest TTS/AI fixes.\",\"publishedAt\":\"2026-10-26T18:11:38Z\",\"sha256\":\"64f8ca14f7e684264a6efd549309d9f3557a53fc4b0d959a4c38f97b6c6e84f7\",\"size\":657281227}",
+  "signature": "r6OY4LZjJJBEFKFSSzBTfPAVNJNssHwgdiRDfcpdXRFdRNnsrMd8kaBV1oGL7tfcP0ut8Bo7m0EN3o4np5YrAA=="
 }
