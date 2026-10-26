@@ -8,6 +8,6 @@ Official Sawt packages are published here. **Anyone can download the app.**
 
 ## License
 
-Sawt is **free for personal, non-commercial use**. **Business use requires a paid license** from Veebase LLC. The source code may not be copied, modified, forked, redistributed or reused, and packages may not be mirrored. See the [Sawt license](https://github.com/Hmzeid/Sawt/blob/main/LICENSE) (repository access required) or contact [Veebase](https://veebase.com/contact).
+Sawt is **free for personal, non-commercial use**. **Business use requires a paid license** from Veebase LLC. The source code may not be copied, modified, forked, redistributed or reused, and packages may not be mirrored. See the [Sawt license](LICENSE) or contact [Veebase](https://veebase.com/contact).
 
 Sawt is powered by [Veebase](https://veebase.com).

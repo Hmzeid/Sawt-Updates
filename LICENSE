@@ -1,0 +1,55 @@
+Sawt Personal Use License
+Copyright © 2026 Veebase LLC. All rights reserved.
+
+This license applies to the Sawt application, its source code, documentation,
+branding, voice assets and any accompanying files (the "Software"), except for
+third-party components listed in NOTICE.md, which remain under their own licenses.
+
+1. PERSONAL USE — FREE
+   You may download and use an official, unmodified Sawt application package
+   free of charge for personal, non-commercial use on a Mac that you own or
+   control. Personal use means use by an individual for their own private,
+   non-business purposes.
+
+2. BUSINESS USE — PAID LICENSE REQUIRED
+   Any use of Sawt by or for a business, company, government body, non-profit,
+   educational institution, client, employer or other organization requires a
+   paid business license from Veebase LLC. This includes internal business use,
+   client work, use on company-owned equipment, and use in a commercial or
+   revenue-generating activity. Request a business license at:
+   https://veebase.com/contact
+
+3. NO SOURCE-CODE RIGHTS
+   No permission is granted to copy, modify, adapt, translate, fork, merge,
+   publish, distribute, sublicense, sell, rent, lease, reverse engineer, or
+   create derivative works from the Software or any part of its source code.
+   You may not reuse any part of the Software in another product or project.
+   The source code is made available only for inspection where Veebase chooses
+   to publish it; publication does not grant a license to reuse it.
+
+4. NO REDISTRIBUTION
+   You may not redistribute, mirror, bundle or share Sawt packages, installers,
+   voice assets or branding. Official downloads are published by Veebase at
+   https://github.com/Hmzeid/Sawt-Updates/releases
+
+5. THIRD-PARTY COMPONENTS
+   Sawt includes or downloads open-source components including whisper.cpp,
+   Piper, eSpeak NG, FluidAudio/Pocket TTS, MOSSTTSKit/MOSS-TTS-Nano, ONNX
+   Runtime and Apple frameworks. Those components remain under their respective
+   licenses. See NOTICE.md. This license does not restrict rights you have under
+   those third-party licenses, and does not grant rights to Sawt itself.
+
+6. TERMINATION
+   This license terminates automatically if you breach any term. On termination
+   you must stop using Sawt and delete all copies. Business use without a paid
+   license is a breach.
+
+7. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+   VEEBASE LLC BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM
+   OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+8. CONTACT
+   Licensing and permissions: https://veebase.com/contact
