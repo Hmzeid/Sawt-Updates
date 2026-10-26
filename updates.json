@@ -1,4 +1,4 @@
 {
-  "payload": "{\"version\":\"1.0.1\",\"build\":2,\"downloadURL\":\"https://github.com/Hmzeid/Sawt-Updates/releases/download/v1.0.1/Sawt-1.0.1.dmg\",\"releaseNotes\":\"Sawt 1.0.1 adds in-app updates, split Dictate pages, Veebase branding and the latest TTS/AI fixes.\",\"publishedAt\":\"2026-10-26T18:11:38Z\",\"sha256\":\"64f8ca14f7e684264a6efd549309d9f3557a53fc4b0d959a4c38f97b6c6e84f7\",\"size\":657281227}",
-  "signature": "r6OY4LZjJJBEFKFSSzBTfPAVNJNssHwgdiRDfcpdXRFdRNnsrMd8kaBV1oGL7tfcP0ut8Bo7m0EN3o4np5YrAA=="
+  "payload": "{\"version\":\"1.0.2\",\"build\":3,\"downloadURL\":\"https://github.com/Hmzeid/Sawt-Updates/releases/download/v1.0.2/Sawt-1.0.2.dmg\",\"releaseNotes\":\"Sawt 1.0.2 adds the official Sawt × Veebase logo, personal-use licensing, and the latest update/AI/TTS improvements.\",\"publishedAt\":\"2026-10-26T18:19:00Z\",\"sha256\":\"368f4a7e718ea41095b02ca1970734bad36c8856dc1d27d1034eb0b54e8b2d0a\",\"size\":657747763}",
+  "signature": "vTXLxht3czEuz5jgSfz1nNSlLN1FCB5VxOzZYb8AX1z62nhXaBdm0rcHEmZyUpPF7Q2rcwPNdoP6mPl5OwYqAw=="
 }
