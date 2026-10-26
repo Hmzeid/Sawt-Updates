@@ -1,4 +1,4 @@
 {
-  "payload": "{\"version\":\"1.0.2\",\"build\":3,\"downloadURL\":\"https://github.com/Hmzeid/Sawt-Updates/releases/download/v1.0.2/Sawt-1.0.2.dmg\",\"releaseNotes\":\"Sawt 1.0.2 adds the official Sawt × Veebase logo, personal-use licensing, and the latest update/AI/TTS improvements.\",\"publishedAt\":\"2026-10-26T18:19:00Z\",\"sha256\":\"368f4a7e718ea41095b02ca1970734bad36c8856dc1d27d1034eb0b54e8b2d0a\",\"size\":657747763}",
-  "signature": "vTXLxht3czEuz5jgSfz1nNSlLN1FCB5VxOzZYb8AX1z62nhXaBdm0rcHEmZyUpPF7Q2rcwPNdoP6mPl5OwYqAw=="
+  "payload": "{\"version\":\"1.0.2\",\"build\":3,\"downloadURL\":\"https://github.com/Hmzeid/Sawt-Updates/releases/download/v1.0.2/Sawt-1.0.2.dmg\",\"releaseNotes\":\"Sawt 1.0.2 adds the official Sawt × Veebase logo, personal-use licensing, and the latest update/AI/TTS improvements.\",\"publishedAt\":\"2026-10-26T18:21:38Z\",\"sha256\":\"93c69dbfa1ad9f9cf8e030396afe89c37ca2fc87dbcfaff511448e2743a52c68\",\"size\":657738302}",
+  "signature": "/osorw78Wxze3RIY4mhuSVA5DoLNIekjHkiLpbw730Yi2IpLbtciliRc0rrJkZesPofF61CwtJ6JwfjwqZGTAw=="
 }
